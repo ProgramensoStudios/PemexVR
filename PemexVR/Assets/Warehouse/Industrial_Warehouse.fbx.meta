@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: d02678dc7d18386458ea8b692f2aaf1e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fbx Default Material
+    second: {fileID: 2100000, guid: 4140c1e014de9554a82d8bb698539ce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Box_Dusty_Metal_Pristine_01
+    second: {fileID: 2100000, guid: 6ccbb330aa6fd76459315a4cb75b51e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Chain_Metal_Hanging_01
+    second: {fileID: 2100000, guid: 9f651990f63eef049988ac79e7113f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Storage_Barrel_Metal_Blue_01
+    second: {fileID: 2100000, guid: ae3a9619b385d784a9320a8e34d566f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Storage_Barrel_Metal_Buckled_01
+    second: {fileID: 2100000, guid: 3a216fe374b28534f921932d01ba5071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Storage_Barrel_Metal_Green_01
+    second: {fileID: 2100000, guid: 726371f9151afe1469f68a26f1535c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Storage_Barrel_Metal_Rust_01
+    second: {fileID: 2100000, guid: db4adcdbe16ea9c46aed51dd7ec4ea4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Tank_Gas_Metal_Worn_02
+    second: {fileID: 2100000, guid: 39c3f9200960afd4a9637dd25e9ab70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Aba_Tarp_Wrinkled_01
+    second: {fileID: 2100000, guid: 2c5c3201c3ff1a3429836e5c079c981b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Con_Supplies_Beam_Metal_Rusty_01
+    second: {fileID: 2100000, guid: 4d2a6c5940ca80343984db4c4f0b9742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Fac_Container_Drum_Metal_Worn_01
+    second: {fileID: 2100000, guid: 905e66cee37d62e498b33d89a65d75fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Fac_Container_Drum_Metal_Worn_02
+    second: {fileID: 2100000, guid: 9b9047134dc69d644a9169847854f0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Fac_Panel_ElectricalBox_Metal_Worn_03
+    second: {fileID: 2100000, guid: 47bb3021f05daa44bb036e4e9f88c732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_Sto_Barrel_Metal_Rust_03
+    second: {fileID: 2100000, guid: c69219b40b5a65249858f3a9dcc395f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Cabinet_Electric_Metal_Dirty_01
+    second: {fileID: 2100000, guid: 316bfbe5a6ad5e147a393d94dd8759d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Cable_Power_Rubber_Weathered_03
+    second: {fileID: 2100000, guid: 9cda3d916e91aa54090ebca96cc93ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Container_Jerrycan_Metal_Red_03
+    second: {fileID: 2100000, guid: c36e095fe5721654ea61a4c7ac57bf42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Emissive_01
+    second: {fileID: 2100000, guid: bb122e3fb4684b649b80fcd68a4208a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Equipment_Handtruck_Metal_Worn_02
+    second: {fileID: 2100000, guid: 41fc88fce7bfbec48816143b26199f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Equipment_Ladder_Metal_03
+    second: {fileID: 2100000, guid: 3dd0b03578cc6d5458eb16abd3b69aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Equipment_Ladder_Metal_Worn_01
+    second: {fileID: 2100000, guid: 8a68a6928fb0e784bbb9a7b4db4689e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Equipment_RadioCable_01
+    second: {fileID: 2100000, guid: 7f065410279393243b9f032e1fa826f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Floor_Concrete_Smooth_01_A
+    second: {fileID: 2100000, guid: e872d155caf548f4e95bdee0ab8bb3ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Floor_Concrete_Smooth_01_B
+    second: {fileID: 2100000, guid: 41dbb5ba5889c844bbf6ec63a177564f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Furniture_Table_Wood_Worn_01
+    second: {fileID: 2100000, guid: 10647057e8d076340a76736584a6568b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Garage_Door_Metal_Worn_01
+    second: {fileID: 2100000, guid: 8c84139b1330626499b7ee7785b0a0a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Light_Ceiling_Metal_Hanging_01
+    second: {fileID: 2100000, guid: c3f7eaa798a9a8540b295e8d0a52ba4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Light_Ceiling_Metal_Hanging_02
+    second: {fileID: 2100000, guid: ef191c0f4f720f34c8a2e51d42cdc159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Pallet_Shelf_Metal_Modular_01
+    second: {fileID: 2100000, guid: f9b79e5a02c950644a67494ff43fd808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Roof_Painted_01
+    second: {fileID: 2100000, guid: 5b950b1500b3e4443832144f2c316376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Sheet_Metal_Rusty_01_B
+    second: {fileID: 2100000, guid: 1c5287ccdb69d26429a397c9cec6d7a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Spool_Rope_S_01
+    second: {fileID: 2100000, guid: a28909521ceb67f459b518fea0fcba86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Barrel_Plastic_Blue_01
+    second: {fileID: 2100000, guid: 279021468547d5446a16cee2d456d103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Barrel_Plastic_Blue_04
+    second: {fileID: 2100000, guid: 262ee851876772c4c80ca5f0fd8d9c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Barrel_Plastic_Blue_21
+    second: {fileID: 2100000, guid: 7ff42abbebd65964b95d77f4b4539b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Cardboard_S_01
+    second: {fileID: 2100000, guid: 38c82c92293db1745bd7a96a8f06ef46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Cardboard_S_05
+    second: {fileID: 2100000, guid: 3e43cc4827ad49241879ee045810dcd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Cardboard_Set_01
+    second: {fileID: 2100000, guid: 4704e3f045a0ba64990c93e33507bfbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Cardboard_Set_02
+    second: {fileID: 2100000, guid: 393dd0cff5b70fe4786b41307addd4cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Cardboard_Set_03
+    second: {fileID: 2100000, guid: c5e3e03b3152c4546abeee589e05ce93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Cardboard_Worn_02
+    second: {fileID: 2100000, guid: 1f02379813eaa274abd9506b4f35e529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Box_Plastic_Blue_04
+    second: {fileID: 2100000, guid: 7ec8b7e1ce4215448bfecd1ea4bd9fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Cabinet_Metal_Rusty_01
+    second: {fileID: 2100000, guid: bbbd745cdc53b584bbc07ed37e3fcaca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Crate_Plastic_Blue_01
+    second: {fileID: 2100000, guid: ed19b62e7f31b294997a4a6c347e1dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Crate_Plastic_Teal_01
+    second: {fileID: 2100000, guid: 15ff2e98bb0cffb4bafc16eeebc9af5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Crate_Plastic_White_01
+    second: {fileID: 2100000, guid: 5df484131bde4fc419372f86a7f11dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Crate_Trap_Covered_01
+    second: {fileID: 2100000, guid: 2c079d05f1bf8454db45b085dc1e99d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Crate_Trap_Covered_02
+    second: {fileID: 2100000, guid: 0f14bebfad73591408598b0d7ea29e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Pallet_Wood_Worn_01
+    second: {fileID: 2100000, guid: 0cf9a3e6435558d449187248aa8d6537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Pallet_Wood_Worn_04
+    second: {fileID: 2100000, guid: eecce4400988be247826c75592f749e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Pallet_Wood_Worn_07
+    second: {fileID: 2100000, guid: 56d1c4ad67574874a81736ba28652d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Sheet_Cardboard_Flattened_03
+    second: {fileID: 2100000, guid: 7e1045e90a67eda4eb309160e0ae48b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Sheet_Cardboard_Flattened_04
+    second: {fileID: 2100000, guid: 4e27eac2169945a4db11797084810afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Sheet_Cardboard_Flattened_05
+    second: {fileID: 2100000, guid: 4e045c44d06f2984c8477c821aef4077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Storage_Shelf_Metal_Rusted_02
+    second: {fileID: 2100000, guid: 25feab1697f04b140ad5dc6236243161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Strap_Lashing_Weathered_06_A
+    second: {fileID: 2100000, guid: b8584270c7c5dcc439c167a35fe59874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Strap_Lashing_Weathered_06_B
+    second: {fileID: 2100000, guid: 58b15f5b51efd354cb1c5570fbed11aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Trash_Bin_Metal_Worn_02
+    second: {fileID: 2100000, guid: 316256d18b58c03478059b77cd55803f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ind_War_Wall_Facade_Concrete_New_01_B
+    second: {fileID: 2100000, guid: fee389ab97c9ae542ada2d2f293a815d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Metal
+    second: {fileID: 2100000, guid: b1583d7ac01e63e4289a677b2c3b3731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Res_Fur_Stool_Metal_Worn_01
+    second: {fileID: 2100000, guid: 667e9511e706340408300f726f696558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Res_Gar_Storage_Toolbox_Wood_Worn_01
+    second: {fileID: 2100000, guid: 71d256840d3fc994781aa51858e4d4f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Urb_Str_ElectricalBox_Metal_Worn_01
+    second: {fileID: 2100000, guid: c4ed964f868ec7446b851408abb6c4d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tile
+    second: {fileID: 2100000, guid: 335adf9de3f1b734b839b00f69bb3924, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
