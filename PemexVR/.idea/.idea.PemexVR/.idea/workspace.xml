@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceff4666-6ac3-4d9a-b40e-25e301969d19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fuego.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fuego.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/WareHouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WareHouse.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisplayInputData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DisplayInputData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ExtintorGrab.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ExtintorGrab.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759947092860</updated>
-      <workItem from="1759947095496" duration="2537000" />
+      <workItem from="1759947095496" duration="3622000" />
     </task>
     <servers />
   </component>
