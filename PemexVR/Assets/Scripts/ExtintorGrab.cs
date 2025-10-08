@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Extintor : MonoBehaviour
+public class ExtintorGrab : MonoBehaviour
 {
     public bool isHoldingExtintor;
 

@@ -6,7 +6,7 @@ public class DisplayInputData : MonoBehaviour
 {
     private InputData _inputData;
     
-    [SerializeField] private Extintor extintor;
+    [SerializeField] private ExtintorGrab extintor;
     
     private void Start()
     {
