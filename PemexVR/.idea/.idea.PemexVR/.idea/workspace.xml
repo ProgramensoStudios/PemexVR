@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceff4666-6ac3-4d9a-b40e-25e301969d19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Extintor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Extintor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fuego.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fuego.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Fire.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Fire.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/extintor.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/extintor.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Extintor.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Extintor.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Fuego.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Fuego.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Particles.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Particles.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Fire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Fire.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/extintor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/extintor.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/WareHouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WareHouse.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisplayInputData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DisplayInputData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extintor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ExtintorGrab.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extintor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ExtintorGrab.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +28,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging Main",
+    "git-widget-placeholder": "Main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -122,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759947092860</updated>
-      <workItem from="1759947095496" duration="2101000" />
+      <workItem from="1759947095496" duration="2537000" />
     </task>
     <servers />
   </component>

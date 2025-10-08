@@ -7,6 +7,7 @@ public class DisplayInputData : MonoBehaviour
     private InputData _inputData;
     
     [SerializeField] private ExtintorGrab extintor;
+    [SerializeField] private ParticleSystem particle;
     
     private void Start()
     {
@@ -19,9 +20,13 @@ public class DisplayInputData : MonoBehaviour
         {
             if (button & extintor.isHoldingExtintor)
             {
-                Debug.unityLogger.Log("Particulas!");
+                particle.Play();
             }
-            
+
+            if (!button & extintor.isHoldingExtintor)
+            {
+                particle.Stop();
+            }
         }
     }
    
