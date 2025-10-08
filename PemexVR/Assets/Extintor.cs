@@ -6,4 +6,5 @@ public class Extintor : MonoBehaviour
         {
             other.GetComponent<Fuego>().StartExtinguishing();
         }
+     
 }
