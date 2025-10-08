@@ -27,8 +27,7 @@ public class Fuego : MonoBehaviour
         if (emission.rateOverTime.constant <= 0)
         {
             fireParticles.Stop();
-            gameObject.SetActive(false);
-            //Destroy(gameObject);
+            gameObject.layer = LayerMask.NameToLayer("Default");
         }
     }
     
