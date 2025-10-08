@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class Extintor : MonoBehaviour
@@ -6,4 +7,5 @@ public class Extintor : MonoBehaviour
         {
             other.GetComponent<Fuego>().StartExtinguishing();
         }
+
 }

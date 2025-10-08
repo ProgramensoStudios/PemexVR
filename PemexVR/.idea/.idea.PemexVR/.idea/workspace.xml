@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ceff4666-6ac3-4d9a-b40e-25e301969d19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PemexVR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fuego.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fuego.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/WareHouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WareHouse.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ExtintorGrab.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ExtintorGrab.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extintor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Extintor.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +44,9 @@
       <option name="WORKING_DIRECTORY" value="C:\Users\Karina\Desktop\PemexVrrepo\PemexVR\PemexVR" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
@@ -55,6 +55,9 @@
       <option name="WORKING_DIRECTORY" value="C:\Users\Karina\Desktop\PemexVrrepo\PemexVR\PemexVR" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -68,6 +71,7 @@
       <option name="selectedOptions">
         <list />
       </option>
+      <option name="useMixedMode" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -81,6 +85,7 @@
       <option name="selectedOptions">
         <list />
       </option>
+      <option name="useMixedMode" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -91,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759947092860</updated>
-      <workItem from="1759947095496" duration="3622000" />
+      <workItem from="1759947095496" duration="5338000" />
     </task>
     <servers />
   </component>
