@@ -27,7 +27,7 @@ public class Fuego : MonoBehaviour
         if (emission.rateOverTime.constant <= 0)
         {
             fireParticles.Stop();
-            gameObject.SetActive(false);
+            boxCollider.enabled = false;
             //Destroy(gameObject);
         }
     }
