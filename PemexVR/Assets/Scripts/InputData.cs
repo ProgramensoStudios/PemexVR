@@ -8,8 +8,7 @@ public class InputData : MonoBehaviour
     public InputDevice _rightController;
     public InputDevice _leftController;
     public InputDevice _HMD;
-
-
+    
     void Update()
     {
         if (!_rightController.isValid || !_leftController.isValid || !_HMD.isValid)
@@ -26,7 +25,6 @@ public class InputData : MonoBehaviour
             InitializeInputDevice(InputDeviceCharacteristics.HeadMounted, ref _HMD);
 
     }
-
     private void InitializeInputDevice(InputDeviceCharacteristics inputCharacteristics, ref InputDevice inputDevice)
     {
         List<InputDevice> devices = new List<InputDevice>();
@@ -40,5 +38,4 @@ public class InputData : MonoBehaviour
             inputDevice = devices[0];
         }
     }
-
 }

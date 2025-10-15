@@ -28,6 +28,8 @@ public class DisplayInputData : MonoBehaviour
                 particle.Stop();
             }
         }
+        
+        if (!_inputData._rightController.TryGetFeatureValue(CommonUsages.deviceAngularAcceleration, out var rotVelocity))return;
+        
     }
-   
 }

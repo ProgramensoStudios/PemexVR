@@ -8,6 +8,7 @@ public class Fuego : MonoBehaviour
     public float extinguishRate = 1f; 
     public bool isBeingExtinguished = false;
     public BoxCollider boxCollider;
+    [SerializeField] private SecondsCounter seconds;
    
 
     private ParticleSystem.EmissionModule emission;
@@ -28,6 +29,7 @@ public class Fuego : MonoBehaviour
         {
             fireParticles.Stop();
             gameObject.layer = LayerMask.NameToLayer("Default");
+            seconds.StopCounting();
         }
     }
     
